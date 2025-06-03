@@ -1,16 +1,15 @@
-<h1 align="left">Hi 👋! My name is Malek <b/> 
-  I'm a full stack developer from Tunisia</h1>
-
-### 
-
-<div>
-  <h3>Language Tools Framework</h3>
-</div>
-
+<h2 align="left">Hi 👋! My name is Malek and I'm a full stack developer from Tunisia</h2>
 
 ###
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Malek-22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Malek-22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3>Languga Tools Framework</h3>
 
 ###
 
@@ -61,6 +60,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="visualstudio logo"  />
 </div>
+
+###
+
+<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
